@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlkoAplikacja</string>
+    <string name="sprawd_czy_jeste_pijany">Sprawdź czy jesteś pijany!</string>
+    <string name="imgButtonTurnOn">imgButtonTurnOn</string>
+</resources>
